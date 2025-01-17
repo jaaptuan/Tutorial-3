@@ -1,5 +1,5 @@
-* Ranticha Chumjai SID : 672115042
-* Program for to Programming Tutorial 3
+# Ranticha Chumjai SID : 672115042
+# Program for to Programming Tutorial 3
 
 Input :
 stack.push(new Student("672115042", "Ranticha", 3.56)) ;
